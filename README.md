@@ -85,8 +85,8 @@ lib/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/findoc-flutter-gallery.git
-   cd findoc-flutter-gallery
+   git clone https://github.com/yourusername/findoc.git
+   cd findoc
    ```
 
 2. **Install dependencies**
@@ -229,7 +229,7 @@ If you encounter any issues or have questions:
 
 ## 🔗 Links
 
-- **APK Download**: [Release APK](https://drive.google.com/your-apk-link)
+- **APK Download**: [Release APK](https://drive.google.com/file/d/1gpndlr8r-ggzcaNEjXQItZWFvMjgyLEJ/view?usp=sharing)
 - **API Documentation**: [Picsum Photos](https://picsum.photos/)
 - **Flutter Documentation**: [flutter.dev](https://flutter.dev/)
 - **BLoC Documentation**: [bloclibrary.dev](https://bloclibrary.dev/)
