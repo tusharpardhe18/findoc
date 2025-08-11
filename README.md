@@ -110,8 +110,6 @@ flutter build apk --release
 
 The APK will be generated at: `build/app/outputs/flutter-apk/app-release.apk`
 
-## 📱 Screenshots
-
 ### Login Screen
 
 - Modern gradient design with card-based form
@@ -124,8 +122,6 @@ The APK will be generated at: `build/app/outputs/flutter-apk/app-release.apk`
 - Author information with avatar initials
 - Image resolution badges and professional spacing
 - Pull-to-refresh functionality
-
-## 🔧 Configuration
 
 ### Network Permissions
 
@@ -207,13 +203,10 @@ dependencies:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Developer
 
-**Assignment for Findoc, Gurugram**
+**Assignment for Findoc**
 
 Built with ❤️ using Flutter and BLoC pattern.
 
