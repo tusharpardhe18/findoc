@@ -1,0 +1,112 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+*.code-workspace
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android
+*.jks
+*.keystore
+
+# iOS related
+/ios
+
+/test
+# macOS related
+/macos
+# Linux related
+/linux
+
+# Windows related
+/windows
+
+# Web related
+/web
+
+# Coverage
+coverage/
+
+# Exceptions to above rules
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+!/dev/ci/**/Gemfile.lock
+
+# Custom additions for this project
+# Test files (if you don't want to include them)
+# /test/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Firebase related (if added later)
+# /android/app/google-services.json
+# /ios/Runner/GoogleService-Info.plist
+# /lib/firebase_options.dart
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# APK files (uncomment if you don't want to track APK files)
+# *.apk
+# *.aab
+
+# Backup files
+*.backup
+*.bak
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
